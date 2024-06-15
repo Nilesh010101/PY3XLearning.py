@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b143d194-7b1c-434f-9f57-b78c39bb144f" name="Changes" comment="Learning02">
-      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab15.py" afterDir="false" />
+    <list default="true" id="b143d194-7b1c-434f-9f57-b78c39bb144f" name="Changes" comment="New files added">
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,9 @@
   "keyToString": {
     "Python.Lab01.executor": "Run",
     "Python.Lab09.executor": "Run",
+    "Python.Lab19.executor": "Run",
+    "Python.Lab21.executor": "Run",
+    "Python.Lab22.executor": "Run",
     "Python.lab02.executor": "Run",
     "Python.lab03.executor": "Run",
     "Python.lab04.executor": "Run",
@@ -67,6 +70,7 @@
     "Python.lab11.executor": "Run",
     "Python.lab14.executor": "Run",
     "Python.lab15.executor": "Run",
+    "Python.lab16.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -133,11 +137,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718388041389</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1718431729404</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718431729404</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning02" />
+    <MESSAGE value="New files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New files added" />
   </component>
 </project>
