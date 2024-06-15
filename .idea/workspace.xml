@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b143d194-7b1c-434f-9f57-b78c39bb144f" name="Changes" comment="Learning02">
-      <change afterPath="$PROJECT_DIR$/Exercise14JUN2024/lab04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14JUN2024/lab05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14JUN2024/lab06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14JUN2024/lab07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14JUN2024/lab08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/Lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 15JUN2024/lab15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,24 +28,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nilesh010101"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nilesh010101&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nilesh010101/PY3XLearning.py.git",
-    "accountId": "c56cc72b-8e5c-4d13-89f1-6e498022c23c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nilesh010101/PY3XLearning.py.git&quot;,
+    &quot;accountId&quot;: &quot;c56cc72b-8e5c-4d13-89f1-6e498022c23c&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Exercise14JUN2024/lab02.py" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2hsWrwJXXVbV0KmVNAlRrw0oiV5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,12 +57,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab01.executor": "Run",
+    "Python.Lab09.executor": "Run",
     "Python.lab02.executor": "Run",
     "Python.lab03.executor": "Run",
     "Python.lab04.executor": "Run",
     "Python.lab05.executor": "Run",
     "Python.lab06.executor": "Run",
     "Python.lab07.executor": "Run",
+    "Python.lab11.executor": "Run",
+    "Python.lab14.executor": "Run",
+    "Python.lab15.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -120,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718385562241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Learning02">
+      <option name="closed" value="true" />
+      <created>1718388041389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718388041389</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
