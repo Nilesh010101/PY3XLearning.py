@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b143d194-7b1c-434f-9f57-b78c39bb144f" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/Lab32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16JUN2024/lab27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise19JUN2024/Lab33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise19JUN2024/Lab34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise19JUN2024/Lab35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise19JUN2024/Lab36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise19JUN2024/lab37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise19JUN2024/lab38.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +69,9 @@
     "Python.Lab29.executor": "Run",
     "Python.Lab30.executor": "Run",
     "Python.Lab31.executor": "Run",
+    "Python.Lab33.executor": "Run",
+    "Python.Lab34.executor": "Run",
+    "Python.Lab36.executor": "Run",
     "Python.lab02.executor": "Run",
     "Python.lab03.executor": "Run",
     "Python.lab04.executor": "Run",
@@ -84,6 +83,8 @@
     "Python.lab15.executor": "Run",
     "Python.lab16.executor": "Run",
     "Python.lab27.executor": "Run",
+    "Python.lab37.executor": "Run",
+    "Python.lab38.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -104,6 +105,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise16JUN2024/Lab23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PY3XLearning.py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise19JUN2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise19JUN2024/Lab33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab33" />
         <item itemvalue="Python.lab04" />
         <item itemvalue="Python.Lab23" />
       </list>
@@ -189,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718435375123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1718480940357</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718480940357</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
